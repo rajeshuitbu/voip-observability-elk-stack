@@ -1,4 +1,3 @@
-# Voip-Observability-elk-stack 
 
 # 📞 VoIP Observability with ELK Stack
 
