@@ -50,7 +50,7 @@ v
 
 ## 🔧 Technologies Used
 
-| Tool            | Purpose                            |
+|Tool            | Purpose                            |
 |-----------------|------------------------------------|
 | **Asterisk**    | VoIP Server (SIP)                  |
 | **SIPp**        | SIP traffic generator              |
@@ -67,7 +67,7 @@ v
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/voip-observability-elk-stack.git
+git clone https://github.com/rajeshuitbu/voip-observability-elk-stack.git
 cd voip-observability-elk-stack
 
 2. Install Asterisk
